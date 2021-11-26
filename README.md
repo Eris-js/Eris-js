@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&vCenter=true&height=40&lines=Hi%2C+I'm+Mew+!;Welcome+to+my+Github+!)](https://github.com/ProCoderEris)
 
-[![Discord Bots](https://top.gg/api/widget/servers/879416555505582139.svg?noavatar=true)(https://top.gg/bot/879416555505582139)
+[![Discord Bots](https://top.gg/api/widget/servers/879416555505582139.svg?noavatar=true)](https://top.gg/bot/879416555505582139)
 [![GitHub: ProCoderEris](https://img.shields.io/github/followers/ProCoderEris?label=follow&style=social)](https://github.com/ProCoderEris)
 
 
