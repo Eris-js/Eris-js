@@ -2,7 +2,7 @@
 
 [![Discord Bots](https://top.gg/api/widget/servers/879416555505582139.svg?noavatar=true)](https://top.gg/bot/879416555505582139)
 [![Discord Bots](https://top.gg/api/widget/upvotes/879416555505582139.svg?noavatar=true)](https://top.gg/bot/879416555505582139)
-[![GitHub: ProCoderEris](https://img.shields.io/github/followers/ProCoderEris?label=follow&style=social)](https://github.com/ProCoderEris)
+[![Discord Bots](https://top.gg/api/widget/owner/879416555505582139.svg?noavatar=true)](https://top.gg/bot/879416555505582139)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
