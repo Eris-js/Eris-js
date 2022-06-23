@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&vCenter=true&height=40&lines=Hi%2C+I'm+Eris+!;Welcome+to+my+Github+!)](https://github.com/ProCoderEris)
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="230">
 
 ## Discord
 ![](https://dcbadge.vercel.app/api/shield/690948417320517632) ![](https://dcbadge.vercel.app/api/shield/879416555505582139?bot=true)
