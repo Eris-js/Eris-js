@@ -4,15 +4,7 @@
 
 ```javascript
 class About extends Me {
-    static fullName = "Nguyễn Quang Sáng";
-    static getCurrentWorkplace () {
-        return {
-            Workplace: {
-                Company: 'Eris',
-                Position: 'Founder'
-            }
-        }
-    }
+    static fullName = "Quang Sáng";
     static showProgrammingLevel () {
         return {
             JavaScript: '35%',
@@ -30,15 +22,6 @@ class About extends Me {
                 Email: 'quangsang.official@gmail.com'
             }
         }
-    }
-    static buyMeACoffee () {
-        if (you_like_what_i_do)
-            try {
-                maybe_consider_buying_me_a_coffee();
-                return 'https://ko-fi.com/kearu';   
-            } catch {
-                return 'Thanks for visiting !';
-            }
     }
 }
 ```
