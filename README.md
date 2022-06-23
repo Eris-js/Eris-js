@@ -5,7 +5,6 @@
 <h3 align="left">Visitor</h3>
 <p align="center">
 <img src="https://count.getloli.com/get/@ProCoderEris?theme=rule34" alt="visitor.svg">
-  <a href="https://komarev.com/ghpvc/?username=ProCoderEris&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=ProCoderEris&color=blue&style=flat-square&label=Profile+View"></a>
 </p> 
 
 ```javascript
