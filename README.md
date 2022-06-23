@@ -11,7 +11,7 @@
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 
 ## Discord
-![](https://dcbadge.vercel.app/api/shield/690948417320517632) ![](https://dcbadge.vercel.app/api/shield/983399834541248552?bot=true)
+![](https://dcbadge.vercel.app/api/shield/690948417320517632) ![](https://dcbadge.vercel.app/api/shield/879416555505582139?bot=true)
 
 ## Visitor
 <p align="center">
