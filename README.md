@@ -4,10 +4,12 @@
 
 <img align='right' src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="230">
 
-## Discord
+**Discord**
+
 ![](https://dcbadge.vercel.app/api/shield/690948417320517632) ![](https://dcbadge.vercel.app/api/shield/879416555505582139?bot=true)
 
-## Visitor
+**Visitor**
+
 <p align="center">
 <img src="https://count.getloli.com/get/@ProCoderEris?theme=rule34" alt="visitor.svg"/>
 </p> 
@@ -41,7 +43,3 @@ class About extends Me {
     }
 }
 ```
-
-
-## Widget Box
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ProCoderEris&data=repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
