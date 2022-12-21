@@ -2,9 +2,9 @@
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-<img align='right' src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="230">
+<!-- <img align='right' src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="230"> -->
 
-![guilyx's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ProCoderEris&show_icons=true&theme=prussian&hide=contribs,issues)<img src="https://count.getloli.com/get/@ProCoderEris?theme=rule34" alt="visitor.svg"/>
+![guilyx's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ProCoderEris&show_icons=true&theme=prussian&hide=contribs,issues)<img src="https://count.getloli.com/get/@ProCoderEris?theme=rule34" align='right' alt="visitor.svg"/>
 **Visitor**
 
 <p align="center">
