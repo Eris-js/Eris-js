@@ -4,7 +4,7 @@
 
 <img align='right' src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="230">
 
-![guilyx's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ProCoderEris)
+![guilyx's github stats]([https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ProCoderEris&show_icons=true&theme=prussian](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ProCoderEris&show_icons=true&theme=prussian&hide=contribs,issues))
 
 **Visitor**
 
