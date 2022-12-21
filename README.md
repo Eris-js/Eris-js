@@ -4,10 +4,15 @@
 
 <!-- <img align='right' src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="230"> -->
 
-![guilyx's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ProCoderEris&show_icons=true&theme=prussian&hide=contribs)<img src="https://count.getloli.com/get/@ProCoderEris?theme=gelbooru" align='right' alt="visitor.svg"/>
+![guilyx's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ProCoderEris&show_icons=true&theme=prussian&hide=contribs)
+
+
+####Visitor:
+
+<img src="https://count.getloli.com/get/@ProCoderEris?theme=gelbooru" align='center' alt="visitor.svg"/>
  
 
-**Languages and Tools:** 
+#####Languages and Tools:
 
 ![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)  ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
