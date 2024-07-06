@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&vCenter=true&height=40&lines=Hi%2C+I'm+Eris+!;Welcome+to+my+Github+!;Chúc+bạn+một+ngày+mới+vui+vẻ;)](https://github.com/ProCoderEris) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&vCenter=true&height=40&lines=Hi%2C+I'm+Eris+!;Welcome+to+my+Github+!;Chúc+bạn+một+ngày+mới+vui+vẻ;)](https://github.com/Eris-js) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40">
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 <!-- <img align='right' src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="230"> -->
 
-![guilyx's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ProCoderEris&show_icons=true&theme=prussian&hide=contribs)
+![guilyx's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Eris-js&show_icons=true&theme=prussian&hide=contribs)
 
 
 ## Visitor:
@@ -31,8 +31,10 @@ class About extends Me {
     static socialAndContact () {
         return {
             Social: {
-                Website: 'https://quangsangblog.com/',
-                Github: 'https://github.com/ProCoderEris/'
+                Website: 'https://moyobot.xyz/',
+                Github: 'https://github.com/Eris-js/',
+                Facebook: 'https://www.facebook.com/erisdev.profile',
+                Instagram: 'https://www.instagram.com/stories/erisdev.js'
             },
             Contact: {
                 Email: 'quangsang.official@gmail.com'
