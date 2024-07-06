@@ -10,7 +10,7 @@
 
 <img src="https://count.getloli.com/get/@Eris-js?theme=gelbooru" align='center' alt="visitor.svg"/>
 
-[![Sparkline](https://stars.medv.io/Eris-js/badges.svg)](https://stars.medv.io/Eris-js/badges)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
  
 
 ## Languages and Tools:
