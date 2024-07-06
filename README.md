@@ -4,8 +4,7 @@
 
 <!-- <img align='right' src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="230"> -->
 
-![guilyx's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Eris-js&show_icons=true&theme=prussian&hide=contribs)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Eris-js&theme=great-gatsby&hide_border=true&border_radius=5.8&locale=vi&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun)](https://git.io/streak-stats)
 
 ## Visitor:
 
