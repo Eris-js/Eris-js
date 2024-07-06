@@ -15,8 +15,8 @@
 
 ## Languages and Tools:
 
-![Github-sponsors]([https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sponsor/sponsor2.svg))  ![Visual Studio Code](	https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg)
-![NodeJS]([https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)) ![JavaScript]([https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg)) ![NPM]([https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white](https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm2.svg)) 
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sponsor/sponsor2.svg)  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg) ![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm2.svg)
 
 
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman2.svg)
