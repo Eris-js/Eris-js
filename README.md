@@ -16,7 +16,7 @@
 ## Languages and Tools:
 
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sponsor/sponsor2.svg)  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg) ![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm2.svg)
 
 
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman2.svg)
