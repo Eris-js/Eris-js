@@ -15,9 +15,30 @@
 
 ## Languages and Tools:
 
-![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)  ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![Github-sponsors]([https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sponsor/sponsor2.svg))  ![Visual Studio Code](	https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg)
+![NodeJS]([https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)) ![JavaScript]([https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg)) ![NPM]([https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white](https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm2.svg)) 
 
+
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NGINX/nginx2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20231.svg)
+
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg)
+
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PayPal/paypal2.svg)
+
+
+![](https://dcbadge.limes.pink/api/shield/690948417320517632) ![](https://dcbadge.limes.pink/api/shield/1232335206787317880?bot=true)
 
 ```javascript
 class About extends Me {
