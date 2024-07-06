@@ -9,26 +9,22 @@
 ## Visitor:
 
 <img src="https://count.getloli.com/get/@Eris-js?theme=gelbooru" align='center' alt="visitor.svg"/>
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Eris-js&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Eris-js/github-widgetbox)
  
-
 ## Languages and Tools:
 
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg)
 
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm2.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm2.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg)  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg)
 
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NGINX/nginx2.svg)
 
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman2.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NGINX/nginx2.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare2.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare2.svg) 
 
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20231.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman2.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg)
 
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram2.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg)
 
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PayPal/paypal2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sponsor/sponsor2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sponsor/sponsor2.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PayPal/paypal2.svg)
 
 ![](https://dcbadge.limes.pink/api/shield/690948417320517632) ![](https://dcbadge.limes.pink/api/shield/1232335206787317880?bot=true)
 
