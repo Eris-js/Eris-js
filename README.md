@@ -10,7 +10,7 @@
 
 <img src="https://count.getloli.com/get/@Eris-js?theme=gelbooru" align='center' alt="visitor.svg"/>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Eris-js&data=followers,repositories,stars,commits)](https://github.com/Eris-js/github-widgetbox)
  
 
 ## Languages and Tools:
