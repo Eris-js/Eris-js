@@ -10,7 +10,7 @@
 ## Visitor:
 
 <img src="https://count.getloli.com/get/@Eris-js?theme=gelbooru" align='center' alt="visitor.svg"/>
-[![Stargazers over time](https://starchart.cc/Eris-js/badges.svg)](https://starchart.cc/Eris-js/badges)
+[![Sparkline](https://stars.medv.io/Eris-js/badges.svg)](https://stars.medv.io/Eris-js/badges)
  
 
 ## Languages and Tools:
